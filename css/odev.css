@@ -1,0 +1,25 @@
+.ortalama1{
+    margin-left: 1200px;
+    font-size: 25px;
+}
+
+.ortalama2{
+    margin-top: 1200px;
+    font-size: 25px;
+    color: darkorange;
+}
+
+.ortalama3{
+    margin-right: 1200px;
+    font-size: 25px;
+    color: tomato;
+}
+
+.yazı-tipi{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sağa-kaydır{
+    float: left;
+}
+
